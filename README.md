@@ -176,7 +176,7 @@ Features:
 
 ### Product Performance Dashboard
 
-![Product Dashboard](images/2_product_dashboard.png)
+![Product Dashboard](images/product_dashboard.png)
 
 ---
 
