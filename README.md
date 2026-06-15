@@ -366,12 +366,13 @@ Or open `tableau/Flipkart_Sales_Analytics_Final.twbx` in Tableau Desktop and con
 ## Author
 
 **Vaibhav Khandelwal**
+
 B.Tech Computer Science Engineering
 Jaypee Institute of Information Technology, Noida
 
 [![GitHub](https://img.shields.io/badge/GitHub-Vaibhav--code15-black?logo=github)](https://github.com/Vaibhav-code15)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/vaibhav-khandelwal-5a532b28a)
-[![Tableau](https://img.shields.io/badge/Tableau-Public-orange?logo=tableau)](https://public.tableau.com/app/profile/vaibhav.khandelwal6292)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaibhav%20Khandelwal-blue?logo=linkedin)](https://linkedin.com/in/vaibhav-khandelwal-5a532b28a)
+[![Tableau Public](https://img.shields.io/badge/Tableau-Public-orange?logo=tableau)](https://public.tableau.com/app/profile/vaibhav.khandelwal6292/vizzes)
 
 ---
 
