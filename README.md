@@ -172,7 +172,7 @@ Features:
 
 ### Sales Performance Dashboard
 
-![Sales Dashboard](images/1_sales_dashboard.png)
+![Sales Dashboard](images/sales_dashboard.png)
 
 ### Product Performance Dashboard
 
