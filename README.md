@@ -63,38 +63,6 @@ This project follows a complete, industry-standard analytics workflow across thr
 
 ---
 
-### Column Reference
-
-**Sales.csv**
-
-| Column | Description |
-|---|---|
-| `date_` | Transaction date |
-| `city_name` | City where the order was placed |
-| `order_id` | Unique order identifier |
-| `cart_id` | Cart identifier grouping items in one session |
-| `dim_customer_key` | Unique customer identifier |
-| `product_id` | Product identifier — join key with products.csv |
-| `procured_quantity` | Units ordered |
-| `unit_selling_price` | Price per unit charged to the customer |
-| `total_discount_amount` | Discount applied to the transaction |
-| `total_weighted_landing_price` | Landed cost of the product |
-
-**products.csv**
-
-| Column | Description |
-|---|---|
-| `product_id` | Unique product identifier — join key with sales |
-| `product_name` | Product name |
-| `brand_name` | Brand name |
-| `manufacturer_name` | Manufacturer name |
-| `product_type` | Product type classification |
-| `l0_category` | Top-level category |
-| `l1_category` | Mid-level category |
-| `l2_category` | Sub-category |
-
----
-
 ## Project Structure
 
 ```
