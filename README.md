@@ -61,14 +61,7 @@ This project follows a complete, industry-standard analytics workflow across thr
 >
 > The complete Sales dataset contains **4,67,06,387 rows (4.67 crore records)**, confirmed via SQL Server Import Wizard during loading into SSMS. For the EDA notebooks, a sample of **10,50,000 rows (~2.2% of full data)** was loaded using `nrows=1050000` for efficient local execution. All insights are representative of the full dataset. The **complete 4.67 crore row dataset** was used for all SQL analysis and Tableau dashboard development.
 
-### Product Catalog Summary
-
-| Metric | Value |
-|---|---|
-| Unique Products | 32,226 |
-| Unique Brands | 2,192 |
-| Unique Manufacturers | 1,202 |
-| L0 Categories | 21 |
+---
 
 ### Column Reference
 
