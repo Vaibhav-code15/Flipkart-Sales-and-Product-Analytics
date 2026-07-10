@@ -337,7 +337,7 @@ B.Tech Computer Science Engineering <br>
 Jaypee Institute of Information Technology, Noida
 
 [![GitHub](https://img.shields.io/badge/GitHub-Vaibhav--code15-black?logo=github)](https://github.com/Vaibhav-code15)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaibhav%20Khandelwal-blue?logo=linkedin)](https://linkedin.com/in/vaibhav-khandelwal-5a532b28a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaibhav%20Khandelwal-blue?logo=linkedin)](https://www.linkedin.com/in/vaibhavkhandelwal15/)
 [![Tableau Public](https://img.shields.io/badge/Tableau-Public-orange?logo=tableau)](https://public.tableau.com/app/profile/vaibhav.khandelwal6292/vizzes)
 
 ---
