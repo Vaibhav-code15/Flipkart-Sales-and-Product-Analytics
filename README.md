@@ -340,6 +340,7 @@ Jaypee Institute of Information Technology, Noida
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaibhav%20Khandelwal-blue?logo=linkedin)](https://www.linkedin.com/in/vaibhavkhandelwal15/)
 [![Tableau Public](https://img.shields.io/badge/Tableau-Public-orange?logo=tableau)](https://public.tableau.com/app/profile/vaibhav.khandelwal6292/vizzes)
 
+*If this helped you, a star would mean a lot ⭐*
 ---
 
 *Dataset: [Flipkart Sales Dataset by iyumrahul on Kaggle](https://www.kaggle.com/datasets/iyumrahul/flipkartsalesdataset)*
